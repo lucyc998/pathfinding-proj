@@ -1,1 +1,1 @@
-# pathfindingProj
+# pathfinding-proj

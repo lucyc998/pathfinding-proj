@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5228a57-2a83-4225-95a8-eadabc4ffdb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pathfinder project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project classes/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project classes/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project classes/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project classes/PathFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project classes/PathPanel$MyListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project classes/PathPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project classes/project classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project classes/src/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project classes/src/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project classes/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project classes/src/PathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project classes/src/PathPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ltpbCFun1Mmau1GVo9gsccqqtE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PathFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PathFinder" />
+      <module name="project classes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PathFinder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5228a57-2a83-4225-95a8-eadabc4ffdb6" name="Default Changelist" comment="" />
+      <created>1608426310963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608426310963</updated>
+      <workItem from="1608426312251" duration="415000" />
+      <workItem from="1608426767049" duration="12146000" />
+      <workItem from="1608751694065" duration="1549000" />
+      <workItem from="1608766265324" duration="1466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1608510749182">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="575" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1608510749182" />
+    <state x="550" y="188" key="FileChooserDialogImpl" timestamp="1608766180507">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="550" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608766180507" />
+    <state width="1028" height="147" key="GridCell.Tab.0.bottom" timestamp="1608699254957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="147" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608699254957" />
+    <state width="1028" height="147" key="GridCell.Tab.0.center" timestamp="1608699254957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="147" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608699254957" />
+    <state width="1028" height="147" key="GridCell.Tab.0.left" timestamp="1608699254957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="147" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608699254957" />
+    <state width="1028" height="147" key="GridCell.Tab.0.right" timestamp="1608699254957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1028" height="147" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608699254957" />
+    <state x="557" y="81" key="SettingsEditor" timestamp="1608766381243">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="557" y="81" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1608766381243" />
+    <state x="203" y="54" key="new project wizard" timestamp="1608426329650">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="203" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1608426329650" />
+  </component>
+</project>

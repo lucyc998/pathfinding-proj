@@ -12,4 +12,18 @@ public class Node {
         this.size = size;
         this.box = new Rectangle(xPos, yPos, size, size);
     }
+
+    public boolean equals(Object o) {
+        if (o == this) {
+            return true;
+        }
+
+        if (!(o instanceof Node)) {
+            return false;
+        }
+
+        Node c = (Node) o;
+
+        return xPos == c.xPos && yPos == c.yPos;
+    }
 }

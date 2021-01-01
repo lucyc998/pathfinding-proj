@@ -5,6 +5,10 @@ public class Node {
     int yPos;
     int size;
     Rectangle box;
+    double fScore = 0; // total score
+    double gScore = 0; // distance from start node
+    double hScore = 0; // heuristic distance from end node
+    Node previous;
 
     public Node(int xPos, int yPos, int size) {
         this.xPos = xPos;

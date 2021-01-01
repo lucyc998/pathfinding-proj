@@ -20,8 +20,7 @@ public class MainFrame extends JFrame{
         
         JButton startButton = new JButton("Start");
         JButton resetButton = new JButton("Reset");
-        
-        
+
         p.add(startButton);
         p.add(resetButton);
         p.add(comboBox);

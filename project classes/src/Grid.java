@@ -14,6 +14,8 @@ public class Grid extends JPanel implements ActionListener {
     ArrayList<Node> nodeWall = new ArrayList<>();
     Node[][] nodeArray = new Node[GRID_WIDTH/UNIT_SIZE][GRID_HEIGHT/UNIT_SIZE];
     Node nodeToFill;
+    Node start;
+    Node end;
 
     private class MyListener extends MouseInputAdapter {
         public void mousePressed(MouseEvent e) {
@@ -31,7 +33,7 @@ public class Grid extends JPanel implements ActionListener {
          *
          * @param list ArrayList of Nodes
          * @param nodeCheck
-         * @return Node's index
+         * @return index of Node
          */
 
         public int inArrayListCheck(ArrayList<Node> list, Node nodeCheck) {
@@ -110,10 +112,10 @@ public class Grid extends JPanel implements ActionListener {
     public void fillBox(Graphics g, Node fillNode, Color fillColor) {
         g.setColor(fillColor);
         g.fillRect(
-                (int) fillNode.box.getX() + 1,
-                (int) fillNode.box.getY() + 1,
-                (int) fillNode.box.getWidth() - 1,
-                (int) fillNode.box.getHeight() - 1
+                (int) fillNode.box.getX(),
+                (int) fillNode.box.getY(),
+                (int) fillNode.box.getWidth(),
+                (int) fillNode.box.getHeight()
         );
     }
     public void actionPerformed(ActionEvent e) {

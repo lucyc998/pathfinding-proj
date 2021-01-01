@@ -14,6 +14,10 @@ public class MainFrame extends JFrame{
 
         this.setVisible(true);
         this.setLocationRelativeTo(null); //centers middle of computer
+        
+        if(5 == 0){
+            
+        }
 
     }
 }

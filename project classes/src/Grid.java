@@ -110,10 +110,10 @@ public class Grid extends JPanel implements ActionListener {
     public void fillBox(Graphics g, Node fillNode, Color fillColor) {
         g.setColor(fillColor);
         g.fillRect(
-                (int) fillNode.box.getX(),
-                (int) fillNode.box.getY(),
-                (int) fillNode.box.getWidth(),
-                (int) fillNode.box.getHeight()
+                (int) fillNode.box.getX() + 1,
+                (int) fillNode.box.getY() + 1,
+                (int) fillNode.box.getWidth() - 1,
+                (int) fillNode.box.getHeight() - 1
         );
     }
     public void actionPerformed(ActionEvent e) {
